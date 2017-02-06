@@ -1,0 +1,229 @@
+Firstname: Name1
+Surname: Surname1
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: electrical
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name2
+Surname: Surname2
+Hometown: Bucuresti
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: 
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name3
+Surname: Surname3
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: name
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name4
+Surname: Surname4
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: all Domain
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name5
+Surname: Surname5
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: Dentistry and Early childhood, education Domains
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name6
+Surname: Surname6
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: arts
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name7
+Surname: Surname7
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: 
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: name8
+Surname: Surname8
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: mass media
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name9
+Surname: Surname9
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: Law
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name10
+Surname: Surname10
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: marketing
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name11
+Surname: Surname11
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: content marketing
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name12
+Surname: Surname12
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: 
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name13
+Surname: Surname13
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: computer science
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name14
+Surname: Surname14
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: arts
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name15
+Surname: Surname15
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: Business and economics
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name16
+Surname: Surname16
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: Software engineering
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name17
+Surname: Surname17
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: computers
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name18
+Surname: Surname18
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: 
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name19
+Surname: Surname19
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: accountant
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name20
+Surname: Surname20
+Hometown: Brasov
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: Engineering
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name21
+Surname: Surname21
+Hometown: Bucuresti
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: arts
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name22
+Surname: Surname22
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: fashion design
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true
+--
+Firstname: Name23
+Surname: Surname23
+Hometown: Sibiu
+Telphone: +40-000000000
+Email: something@gmail.com
+Domain: fashion designs
+Url: http://www.google.com&utm_source=facebook&utm_medium=link 
+Source: computers name
+Campaign: true

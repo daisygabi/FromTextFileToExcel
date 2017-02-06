@@ -1,0 +1,6 @@
+To run from command line:
+1. export the project in a standalone jar
+2. Cd to where the jar is and run this line: 
+>java -jar export.jar
+3. add the name of the file (which is date format. eg '6-2-2017')
+4. excel will be created
